@@ -1,2 +1,2 @@
-# picture
+# ssm
 例子
